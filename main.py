@@ -8,6 +8,6 @@ for animal in favorite_animals:
 
 numbers=[1,2,3,4,5]
 numbers_sum = 0
-for number in numbers: 
-    numbers_sum += num 
-print(numbers_sum)
+for num in numbers: 
+    numbers_sum += numbers
+print(numbers_sum) 
